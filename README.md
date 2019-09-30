@@ -1,4 +1,4 @@
 [x] first sync to project
 
-[] add file to githup
+[x] add file to githup
 
